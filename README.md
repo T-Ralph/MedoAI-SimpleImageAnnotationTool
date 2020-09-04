@@ -7,5 +7,3 @@ TEST FILES:
 - Replace img/image.jpg (with any desired image)
 - Launch Test.html
 - JSON generated in textarea field
-
-GitHub.IO Page: https://t-ralph.github.io/MedoAI-SimpleImageAnnotationTool/
